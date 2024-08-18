@@ -2,7 +2,9 @@ Simple definition:
 My name: Fahad Al-Otaibi
 Affiliation: Kingdom of Saudi Arabia
 About me: A simple person who loves security, programming and technology. 
-I created this page to benefit people                                   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+I created this page to benefit people                                  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 #
 #
 <!--- !)
