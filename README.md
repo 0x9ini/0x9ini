@@ -27,6 +27,7 @@ h3 align="center">A passionate frontend developer from Kingdom of Saudi Arabia
 <p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </p> 
 
 ![image](https://github.com/user-attachments/assets/8c6ee116-8df3-43a1-863d-fae3528a5a1b)
+![image](https://github.com/user-attachments/assets/8e8a6fe8-a32d-48fe-97b7-db14fe6ca3e8)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--- !)
