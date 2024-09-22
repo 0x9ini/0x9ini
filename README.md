@@ -7,7 +7,8 @@ I created this page to benefit people
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 # 
 #
-h3 align="center">A passionate frontend developer from India</h3>
+h3 align="center">A passionate frontend developer from Kingdom of Saudi Arabia
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
