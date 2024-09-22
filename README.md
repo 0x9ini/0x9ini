@@ -30,6 +30,7 @@ h3 align="center">A passionate frontend developer from Kingdom of Saudi Arabia
 ![image](https://github.com/user-attachments/assets/8e8a6fe8-a32d-48fe-97b7-db14fe6ca3e8)
 ![image](https://github.com/user-attachments/assets/d64da1f5-6c53-4c0b-a81d-0ee20e5b7799)
 ![image](https://github.com/user-attachments/assets/96038ca6-d379-4efb-b48d-017018caf5f6)
+![image](https://github.com/user-attachments/assets/b66f6574-a055-4ead-b701-b9090fb952e7)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--- !)
