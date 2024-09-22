@@ -14,7 +14,10 @@ I created this page to benefit people
 
 -----------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-# 
+#
+![image](https://github.com/user-attachments/assets/fb8d4a61-c941-4019-883b-a0859a9ddb90)
+
+
 #
 h3 align="center">A passionate frontend developer from Kingdom of Saudi Arabia
 </h3>
