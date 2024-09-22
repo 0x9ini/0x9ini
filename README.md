@@ -8,7 +8,8 @@ About me: A simple person who loves security, programming and technology.
 I created this page to benefit people                                  
 
 
-![90ef3f33694b37a6bb2154ed3f7f0e56](https://github.com/user-attachments/assets/f503fb9c-8262-47c4-ada1-38a39ad38abf)
+![15beca62de482169894e7e1ef9fcd920](https://github.com/user-attachments/assets/43ad112d-d151-459a-aaab-4519a66a956b)
+
 
 
 -----------------------
