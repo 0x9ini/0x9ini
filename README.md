@@ -3,7 +3,7 @@ Simple definition
 My name: Fahad Al-Otaibi
 --
 Affiliation: Kingdom of Saudi Arabia
-
+--
 About me: A simple person who loves security, programming and technology. 
 I created this page to benefit people                                  
 
