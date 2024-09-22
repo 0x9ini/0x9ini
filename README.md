@@ -1,4 +1,4 @@
-Simple definition:
+Simple definition
 -----------------------
 My name: Fahad Al-Otaibi
 Affiliation: Kingdom of Saudi Arabia
