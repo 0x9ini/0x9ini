@@ -56,8 +56,8 @@ I created this page to benefit people
                       ██  ██    ░░██▒▒▒▒██░░░░░░░░██░░░░▒▒▓▓░░░░      ░░██▓▓▓▓▓▓██▓▓    
                     ██  ░░██      ░░████░░░░░░░░  ██░░░░██░░░░░░    ░░░░██▓▓▓▓▓▓▓▓▓▓██  
                     ██  ██          ░░░░░░░░░░    ░░████░░░░░░██░░  ░░░░██▓▓▓▓▓▓██████  
-                    ██  ██            ░░░░░░░░      ▒▒▒▒░░░░░░██░░░░░░░░██▓▓████   
-                    
+                    ██  ██            ░░░░░░░░      ▒▒▒▒░░░░░░██░░░░░░░░██▓▓████        
+
 
 -----------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent) ![image](https://github.com/user-attachments/assets/3bc1dadd-7a6b-4120-a969-35fa0581b86c)
