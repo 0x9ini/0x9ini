@@ -7,7 +7,8 @@ Affiliation: Kingdom of Saudi Arabia
 About me: A simple person who loves security, programming and technology. 
 I created this page to benefit people                                  
 
-![a779679ec40164b9b49a56487828cad2](https://github.com/user-attachments/assets/62973c98-aab7-4fba-99a9-4877572bcdcb)
+
+![de0640ac75c0ca8c6dde2e3c6a7a674c](https://github.com/user-attachments/assets/44a33198-fe0f-4c0e-aa3d-0c6330ead37c)
 
 
 ⠀    
